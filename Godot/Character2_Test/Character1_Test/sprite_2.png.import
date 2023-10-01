@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://dmcd83u5ews5t"
+path="res://.godot/imported/sprite_2.png-0eec0c90010018e06edad60fa4815dac.image"
+
+[deps]
+
+source_file="res://Character2_Test/Character1_Test/sprite_2.png"
+dest_files=["res://.godot/imported/sprite_2.png-0eec0c90010018e06edad60fa4815dac.image"]
+
+[params]
+

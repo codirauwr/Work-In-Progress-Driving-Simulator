@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://ckhbmlvgnqxwa"
+path="res://.godot/imported/sprite_1.png-a70bf78a2c0e2ecb8ed95f5ca4bd5d89.image"
+
+[deps]
+
+source_file="res://Character2_Test/Character1_Test/sprite_1.png"
+dest_files=["res://.godot/imported/sprite_1.png-a70bf78a2c0e2ecb8ed95f5ca4bd5d89.image"]
+
+[params]
+
